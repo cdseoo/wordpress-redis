@@ -1,2 +1,2 @@
 # wordpress-redis
-wordpress base image with redis
+fpm-alpine based wordpress image with redis
